@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DragAndMapObjectDemo</string>
+    <string name="ball_view">BallView</string>
+</resources>
